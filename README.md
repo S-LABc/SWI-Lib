@@ -94,7 +94,7 @@ byte getLightningUnknownPack(uint8_t num_byte);
 ```
 
 ## Установка
-[Скачать ZIP-архив](https://github.com/S-LABc/SWI-Lib/archive/refs/heads/main.zip) этого репозитория. Запустить [Arduino IDE](https://www.arduino.cc/en/software). Выбрать *Скетч* -> *Подключить библиотеку* -> *Добавить .ZIP библиотеку*. В появившемся окне выбрать скаченный архив. [Наглядная инструкция](https://wiki.iarduino.ru/page/Installing_libraries). **Не забудьте изучить скетч из примеров.**
+Скачать ZIP-архив нужной версии из раздела [Releases](https://github.com/S-LABc/SWI-Lib/releases). Запустить [Arduino IDE](https://www.arduino.cc/en/software). Выбрать *Скетч* -> *Подключить библиотеку* -> *Добавить .ZIP библиотеку*. В появившемся окне выбрать скаченный архив. [Наглядная инструкция](https://wiki.iarduino.ru/page/Installing_libraries). **Не забудьте изучить скетч из примеров.**
 
 ## Подключение аксессуара
 ![Connecting Picture](images/connecting.jpg)
