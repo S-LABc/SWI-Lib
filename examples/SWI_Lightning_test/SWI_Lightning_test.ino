@@ -24,8 +24,6 @@
  * Декодер протокола SWI на GitHub - https://github.com/S-LABc/SWI-Protocol-Decoder
  * 
  * Контакты:
- ** YouTube - https://www.youtube.com/channel/UCbkE52YKRphgkvQtdwzQbZQ
- ** Telegram - https://www.t.me/slabyt
  ** GitHub - https://github.com/S-LABc
  ** Gmail - romansklyar15@gmail.com
  * 
